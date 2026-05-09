@@ -35,52 +35,102 @@
     "vocab_quiz": [
       {
         "q": "The word \"sustainable\" in the passage is closest in meaning to:",
-        "options": ["A. expensive", "B. able to continue long-term", "C. difficult", "D. temporary"],
+        "options": [
+          "A. expensive",
+          "B. able to continue long-term",
+          "C. difficult",
+          "D. temporary"
+        ],
         "answer": 1
       },
       {
         "q": "\"Carbon emissions\" refers to:",
-        "options": ["A. food waste", "B. water pollution", "C. greenhouse gases released into the air", "D. soil contamination"],
+        "options": [
+          "A. food waste",
+          "B. water pollution",
+          "C. greenhouse gases released into the air",
+          "D. soil contamination"
+        ],
         "answer": 2
       },
       {
         "q": "The word \"isolated\" means:",
-        "options": ["A. connected to others", "B. separated and alone", "C. busy and active", "D. healthy"],
+        "options": [
+          "A. connected to others",
+          "B. separated and alone",
+          "C. busy and active",
+          "D. healthy"
+        ],
         "answer": 1
       },
       {
         "q": "\"Incorporating\" in the passage means:",
-        "options": ["A. removing", "B. including as part of something", "C. replacing", "D. ignoring"],
+        "options": [
+          "A. removing",
+          "B. including as part of something",
+          "C. replacing",
+          "D. ignoring"
+        ],
         "answer": 1
       },
       {
         "q": "\"Contamination\" means:",
-        "options": ["A. making something pure", "B. improving quality", "C. making something impure or harmful", "D. changing color"],
+        "options": [
+          "A. making something pure",
+          "B. improving quality",
+          "C. making something impure or harmful",
+          "D. changing color"
+        ],
         "answer": 2
       },
       {
         "q": "\"Viable\" means:",
-        "options": ["A. impossible", "B. dangerous", "C. capable of working successfully", "D. expensive"],
+        "options": [
+          "A. impossible",
+          "B. dangerous",
+          "C. capable of working successfully",
+          "D. expensive"
+        ],
         "answer": 2
       },
       {
         "q": "\"Resilient\" food systems are those that:",
-        "options": ["A. are very expensive", "B. can recover quickly from difficulties", "C. produce large amounts of food", "D. use chemicals"],
+        "options": [
+          "A. are very expensive",
+          "B. can recover quickly from difficulties",
+          "C. produce large amounts of food",
+          "D. use chemicals"
+        ],
         "answer": 1
       },
       {
         "q": "\"Yields\" in agriculture refers to:",
-        "options": ["A. the amount of crops produced", "B. the cost of farming", "C. the types of plants grown", "D. the farming equipment used"],
+        "options": [
+          "A. the amount of crops produced",
+          "B. the cost of farming",
+          "C. the types of plants grown",
+          "D. the farming equipment used"
+        ],
         "answer": 0
       },
       {
         "q": "\"Densely populated\" means an area:",
-        "options": ["A. with very few people", "B. with many people living close together", "C. with good public transport", "D. with many buildings"],
+        "options": [
+          "A. with very few people",
+          "B. with many people living close together",
+          "C. with good public transport",
+          "D. with many buildings"
+        ],
         "answer": 1
       },
       {
         "q": "\"Hydroponics\" is a method of:",
-        "options": ["A. treating polluted water", "B. generating electricity from water", "C. growing plants without soil using water", "D. purifying drinking water"],
+        "options": [
+          "A. treating polluted water",
+          "B. generating electricity from water",
+          "C. growing plants without soil using water",
+          "D. purifying drinking water"
+        ],
         "answer": 2
       }
     ]
@@ -121,52 +171,102 @@
     "vocab_quiz": [
       {
         "q": "\"Diagnosing\" a disease means:",
-        "options": ["A. curing a disease", "B. spreading a disease", "C. identifying what disease someone has", "D. preventing a disease"],
+        "options": [
+          "A. curing a disease",
+          "B. spreading a disease",
+          "C. identifying what disease someone has",
+          "D. preventing a disease"
+        ],
         "answer": 2
       },
       {
         "q": "\"Remarkable\" means:",
-        "options": ["A. ordinary", "B. worthy of attention; extraordinary", "C. frightening", "D. confusing"],
+        "options": [
+          "A. ordinary",
+          "B. worthy of attention; extraordinary",
+          "C. frightening",
+          "D. confusing"
+        ],
         "answer": 1
       },
       {
         "q": "\"Intervene\" means:",
-        "options": ["A. to ignore a situation", "B. to make a situation worse", "C. to take action to improve a situation", "D. to study a problem"],
+        "options": [
+          "A. to ignore a situation",
+          "B. to make a situation worse",
+          "C. to take action to improve a situation",
+          "D. to study a problem"
+        ],
         "answer": 2
       },
       {
         "q": "\"Precise\" means:",
-        "options": ["A. fast", "B. exactly accurate", "C. powerful", "D. simple"],
+        "options": [
+          "A. fast",
+          "B. exactly accurate",
+          "C. powerful",
+          "D. simple"
+        ],
         "answer": 1
       },
       {
         "q": "\"Ethical\" concerns are related to:",
-        "options": ["A. money and costs", "B. technical problems", "C. questions of right and wrong", "D. scientific accuracy"],
+        "options": [
+          "A. money and costs",
+          "B. technical problems",
+          "C. questions of right and wrong",
+          "D. scientific accuracy"
+        ],
         "answer": 2
       },
       {
         "q": "\"Bias\" in AI refers to:",
-        "options": ["A. unfair preferences that affect results", "B. technical errors in software", "C. the speed of processing", "D. energy consumption"],
+        "options": [
+          "A. unfair preferences that affect results",
+          "B. technical errors in software",
+          "C. the speed of processing",
+          "D. energy consumption"
+        ],
         "answer": 0
       },
       {
         "q": "\"Equitably\" means:",
-        "options": ["A. quickly", "B. secretly", "C. in a fair and equal way", "D. experimentally"],
+        "options": [
+          "A. quickly",
+          "B. secretly",
+          "C. in a fair and equal way",
+          "D. experimentally"
+        ],
         "answer": 2
       },
       {
         "q": "\"Policymakers\" are people who:",
-        "options": ["A. build machines", "B. create and implement government rules and regulations", "C. conduct scientific experiments", "D. manage hospitals"],
+        "options": [
+          "A. build machines",
+          "B. create and implement government rules and regulations",
+          "C. conduct scientific experiments",
+          "D. manage hospitals"
+        ],
         "answer": 1
       },
       {
         "q": "\"Complications\" in medicine refer to:",
-        "options": ["A. medical tools and equipment", "B. additional problems that arise during treatment", "C. types of medication", "D. surgical procedures"],
+        "options": [
+          "A. medical tools and equipment",
+          "B. additional problems that arise during treatment",
+          "C. types of medication",
+          "D. surgical procedures"
+        ],
         "answer": 1
       },
       {
         "q": "\"Algorithms\" are:",
-        "options": ["A. medical instruments", "B. types of diseases", "C. sets of rules for solving problems step by step", "D. computer screens"],
+        "options": [
+          "A. medical instruments",
+          "B. types of diseases",
+          "C. sets of rules for solving problems step by step",
+          "D. computer screens"
+        ],
         "answer": 2
       }
     ]
@@ -207,52 +307,102 @@
     "vocab_quiz": [
       {
         "q": "\"Symbiotic\" relationship means:",
-        "options": ["A. a harmful relationship between two species", "B. a relationship where both parties benefit", "C. a competitive relationship", "D. a temporary connection"],
+        "options": [
+          "A. a harmful relationship between two species",
+          "B. a relationship where both parties benefit",
+          "C. a competitive relationship",
+          "D. a temporary connection"
+        ],
         "answer": 1
       },
       {
         "q": "\"Photosynthesis\" is the process by which:",
-        "options": ["A. animals breathe oxygen", "B. plants produce food using sunlight", "C. water evaporates from the ocean", "D. coral reefs grow"],
+        "options": [
+          "A. animals breathe oxygen",
+          "B. plants produce food using sunlight",
+          "C. water evaporates from the ocean",
+          "D. coral reefs grow"
+        ],
         "answer": 1
       },
       {
         "q": "\"Expel\" means:",
-        "options": ["A. to attract", "B. to absorb", "C. to force out", "D. to produce"],
+        "options": [
+          "A. to attract",
+          "B. to absorb",
+          "C. to force out",
+          "D. to produce"
+        ],
         "answer": 2
       },
       {
         "q": "\"Acidification\" refers to the process of:",
-        "options": ["A. becoming warmer", "B. becoming more acidic", "C. becoming saltier", "D. becoming cleaner"],
+        "options": [
+          "A. becoming warmer",
+          "B. becoming more acidic",
+          "C. becoming saltier",
+          "D. becoming cleaner"
+        ],
         "answer": 1
       },
       {
         "q": "\"Biodiversity\" means:",
-        "options": ["A. a single species of animal", "B. the variety of life in a particular area", "C. the study of plants", "D. extinction of species"],
+        "options": [
+          "A. a single species of animal",
+          "B. the variety of life in a particular area",
+          "C. the study of plants",
+          "D. extinction of species"
+        ],
         "answer": 1
       },
       {
         "q": "\"Devastating\" consequences are:",
-        "options": ["A. minor and manageable", "B. unexpected", "C. extremely harmful and destructive", "D. positive and beneficial"],
+        "options": [
+          "A. minor and manageable",
+          "B. unexpected",
+          "C. extremely harmful and destructive",
+          "D. positive and beneficial"
+        ],
         "answer": 2
       },
       {
         "q": "\"Conservation\" efforts aim to:",
-        "options": ["A. destroy natural habitats", "B. protect and preserve natural resources", "C. exploit natural resources for profit", "D. study scientific theories"],
+        "options": [
+          "A. destroy natural habitats",
+          "B. protect and preserve natural resources",
+          "C. exploit natural resources for profit",
+          "D. study scientific theories"
+        ],
         "answer": 1
       },
       {
         "q": "\"Greenhouse gas\" refers to:",
-        "options": ["A. gases used in greenhouses to grow plants", "B. gases that trap heat in the atmosphere", "C. gases produced by factories only", "D. oxygen and nitrogen in the air"],
+        "options": [
+          "A. gases used in greenhouses to grow plants",
+          "B. gases that trap heat in the atmosphere",
+          "C. gases produced by factories only",
+          "D. oxygen and nitrogen in the air"
+        ],
         "answer": 1
       },
       {
         "q": "\"Ecosystem\" means:",
-        "options": ["A. a type of weather pattern", "B. a community of living things and their environment", "C. a scientific laboratory", "D. a method of farming"],
+        "options": [
+          "A. a type of weather pattern",
+          "B. a community of living things and their environment",
+          "C. a scientific laboratory",
+          "D. a method of farming"
+        ],
         "answer": 1
       },
       {
         "q": "\"Marine\" relates to:",
-        "options": ["A. land and soil", "B. forests and jungles", "C. the sea or ocean", "D. the sky and atmosphere"],
+        "options": [
+          "A. land and soil",
+          "B. forests and jungles",
+          "C. the sea or ocean",
+          "D. the sky and atmosphere"
+        ],
         "answer": 2
       }
     ]
@@ -293,52 +443,102 @@
     "vocab_quiz": [
       {
         "q": "\"Integral\" part means:",
-        "options": ["A. optional", "B. essential and fundamental", "C. expensive", "D. new and modern"],
+        "options": [
+          "A. optional",
+          "B. essential and fundamental",
+          "C. expensive",
+          "D. new and modern"
+        ],
         "answer": 1
       },
       {
         "q": "\"Inadequacy\" means:",
-        "options": ["A. a feeling of being more than enough", "B. a feeling of not being good enough", "C. a feeling of happiness", "D. a feeling of excitement"],
+        "options": [
+          "A. a feeling of being more than enough",
+          "B. a feeling of not being good enough",
+          "C. a feeling of happiness",
+          "D. a feeling of excitement"
+        ],
         "answer": 1
       },
       {
         "q": "A \"correlation\" between two things means:",
-        "options": ["A. they have nothing in common", "B. one causes the other directly", "C. a relationship where they tend to change together", "D. they are opposites"],
+        "options": [
+          "A. they have nothing in common",
+          "B. one causes the other directly",
+          "C. a relationship where they tend to change together",
+          "D. they are opposites"
+        ],
         "answer": 2
       },
       {
         "q": "\"Disruption\" means:",
-        "options": ["A. improvement", "B. interference that prevents normal activity", "C. a type of medical condition", "D. a form of entertainment"],
+        "options": [
+          "A. improvement",
+          "B. interference that prevents normal activity",
+          "C. a type of medical condition",
+          "D. a form of entertainment"
+        ],
         "answer": 1
       },
       {
         "q": "\"Melatonin\" is described as:",
-        "options": ["A. a type of blue light", "B. a social media app", "C. a hormone that regulates sleep", "D. a form of caffeine"],
+        "options": [
+          "A. a type of blue light",
+          "B. a social media app",
+          "C. a hormone that regulates sleep",
+          "D. a form of caffeine"
+        ],
         "answer": 2
       },
       {
         "q": "\"Anonymous\" means:",
-        "options": ["A. with a clear identity", "B. well-known to everyone", "C. without revealing one's identity", "D. signed with a name"],
+        "options": [
+          "A. with a clear identity",
+          "B. well-known to everyone",
+          "C. without revealing one's identity",
+          "D. signed with a name"
+        ],
         "answer": 2
       },
       {
         "q": "\"Cyberbullying\" is defined as bullying that:",
-        "options": ["A. occurs only at school", "B. involves physical violence", "C. happens online and can occur anytime", "D. requires face-to-face contact"],
+        "options": [
+          "A. occurs only at school",
+          "B. involves physical violence",
+          "C. happens online and can occur anytime",
+          "D. requires face-to-face contact"
+        ],
         "answer": 2
       },
       {
         "q": "\"Promote\" activities means to:",
-        "options": ["A. ban or restrict activities", "B. support and encourage activities", "C. study activities scientifically", "D. replace activities with others"],
+        "options": [
+          "A. ban or restrict activities",
+          "B. support and encourage activities",
+          "C. study activities scientifically",
+          "D. replace activities with others"
+        ],
         "answer": 1
       },
       {
         "q": "\"Responsible\" online behavior refers to behavior that is:",
-        "options": ["A. exciting and adventurous", "B. anonymous and hidden", "C. fast and efficient", "D. careful and considerate of others"],
+        "options": [
+          "A. exciting and adventurous",
+          "B. anonymous and hidden",
+          "C. fast and efficient",
+          "D. careful and considerate of others"
+        ],
         "answer": 3
       },
       {
         "q": "\"Emitted\" by screens means:",
-        "options": ["A. absorbed by screens", "B. blocked by screens", "C. given off or sent out by screens", "D. reflected from screens"],
+        "options": [
+          "A. absorbed by screens",
+          "B. blocked by screens",
+          "C. given off or sent out by screens",
+          "D. reflected from screens"
+        ],
         "answer": 2
       }
     ]
@@ -379,54 +579,240 @@
     "vocab_quiz": [
       {
         "q": "\"Demographic\" refers to:",
-        "options": ["A. economic systems", "B. political systems", "C. statistics relating to a population", "D. environmental factors"],
+        "options": [
+          "A. economic systems",
+          "B. political systems",
+          "C. statistics relating to a population",
+          "D. environmental factors"
+        ],
         "answer": 2
       },
       {
         "q": "\"Life expectancy\" means:",
-        "options": ["A. the quality of life a person has", "B. the average number of years a person is expected to live", "C. the standard of healthcare in a country", "D. the retirement age"],
+        "options": [
+          "A. the quality of life a person has",
+          "B. the average number of years a person is expected to live",
+          "C. the standard of healthcare in a country",
+          "D. the retirement age"
+        ],
         "answer": 1
       },
       {
         "q": "\"Declining\" birth rate means a birth rate that is:",
-        "options": ["A. increasing", "B. staying the same", "C. decreasing", "D. unpredictable"],
+        "options": [
+          "A. increasing",
+          "B. staying the same",
+          "C. decreasing",
+          "D. unpredictable"
+        ],
         "answer": 2
       },
       {
         "q": "\"Pension\" is:",
-        "options": ["A. a tax paid by workers", "B. a government healthcare program", "C. regular payment made to retired people", "D. a type of savings account"],
+        "options": [
+          "A. a tax paid by workers",
+          "B. a government healthcare program",
+          "C. regular payment made to retired people",
+          "D. a type of savings account"
+        ],
         "answer": 2
       },
       {
         "q": "\"Shrinks\" means:",
-        "options": ["A. grows larger", "B. becomes smaller", "C. stays the same", "D. disappears completely"],
+        "options": [
+          "A. grows larger",
+          "B. becomes smaller",
+          "C. stays the same",
+          "D. disappears completely"
+        ],
         "answer": 1
       },
       {
         "q": "\"Labor shortage\" means:",
-        "options": ["A. too many workers available", "B. not enough workers available", "C. workers demanding higher wages", "D. workers refusing to work"],
+        "options": [
+          "A. too many workers available",
+          "B. not enough workers available",
+          "C. workers demanding higher wages",
+          "D. workers refusing to work"
+        ],
         "answer": 1
       },
       {
         "q": "\"Automation\" refers to:",
-        "options": ["A. manual labor by workers", "B. the use of technology to perform tasks automatically", "C. government policies", "D. foreign investment"],
+        "options": [
+          "A. manual labor by workers",
+          "B. the use of technology to perform tasks automatically",
+          "C. government policies",
+          "D. foreign investment"
+        ],
         "answer": 1
       },
       {
         "q": "\"Comprehensive\" approach means:",
-        "options": ["A. a quick and simple approach", "B. a partial approach", "C. a thorough approach covering all aspects", "D. an experimental approach"],
+        "options": [
+          "A. a quick and simple approach",
+          "B. a partial approach",
+          "C. a thorough approach covering all aspects",
+          "D. an experimental approach"
+        ],
         "answer": 2
       },
       {
         "q": "\"Harness\" the potential means:",
-        "options": ["A. to ignore potential", "B. to control and make use of potential", "C. to limit potential", "D. to study potential"],
+        "options": [
+          "A. to ignore potential",
+          "B. to control and make use of potential",
+          "C. to limit potential",
+          "D. to study potential"
+        ],
         "answer": 1
       },
       {
         "q": "\"Cautiously\" opening its doors means doing so:",
-        "options": ["A. quickly and enthusiastically", "B. without any planning", "C. carefully and with hesitation", "D. reluctantly and with refusal"],
+        "options": [
+          "A. quickly and enthusiastically",
+          "B. without any planning",
+          "C. carefully and with hesitation",
+          "D. reluctantly and with refusal"
+        ],
         "answer": 2
       }
     ]
+  },
+  "2026-05-15": {
+    "title": "The Growing Popularity of Remote Work Around the World",
+    "passage": "Remote work has transformed the way people approach their jobs over the past few years. Once considered unusual, working from home is now a common practice in many countries. This shift has brought both advantages and challenges to employees and employers alike.\n\nOne of the main benefits of remote work is flexibility. Employees can often choose their own working hours and locations, which helps them maintain a better work-life balance. Parents can spend more time with their children, and people with disabilities find it easier to participate in the workforce. Additionally, remote workers save money on commuting costs and office expenses. Companies also benefit financially by reducing the need for large office spaces.\n\nHowever, remote work also presents certain difficulties. Many workers feel isolated when they do not interact with colleagues in person. Communication can sometimes become less effective when teams are spread across different time zones. Some employees struggle with the lack of clear boundaries between their professional and personal lives, making it hard to relax after work.\n\nTechnology plays a crucial role in making remote work possible. Video conferencing tools, project management software, and cloud storage systems enable teams to collaborate effectively. Despite these technological advances, many companies have found that a hybrid model works best. In this arrangement, employees work from home several days a week and come to the office on other days. This combination helps maintain team connection while preserving the flexibility that remote workers value.\n\nLooking forward, remote work is likely to remain a significant part of how organizations operate. As more companies recognize both its benefits and limitations, they will continue to adapt their policies. The future of work seems to be moving toward greater flexibility and employee choice, reshaping traditional office culture.",
+    "comprehension_quiz": [
+      {
+        "q": "According to the passage, what is one financial advantage of remote work for companies?",
+        "options": [
+          "A. They can pay employees lower salaries",
+          "B. They can reduce spending on office spaces",
+          "C. They can avoid paying for technology software"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What does the passage suggest about the hybrid work model?",
+        "options": [
+          "A. It is less effective than full remote work",
+          "B. It combines office work with remote work for better results",
+          "C. It is only suitable for small companies"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of the following is mentioned as a challenge of remote work?",
+        "options": [
+          "A. Employees cannot save money on commuting",
+          "B. Technology is not available for communication",
+          "C. Workers may feel isolated without in-person interaction"
+        ],
+        "answer": 2
+      }
+    ],
+    "vocab_quiz": [
+      {
+        "q": "The word \"transformed\" means:",
+        "options": [
+          "A. made a big change to something",
+          "B. moved to a different place",
+          "C. refused to accept",
+          "D. organized better"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "The word \"flexibility\" means:",
+        "options": [
+          "A. physical exercise ability",
+          "B. the quality of being able to change or adapt",
+          "C. being strict about rules",
+          "D. moving quickly"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "The word \"isolated\" means:",
+        "options": [
+          "A. very busy with work",
+          "B. separated from other people",
+          "C. happy and excited",
+          "D. traveling frequently"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "The word \"commuting\" means:",
+        "options": [
+          "A. talking with friends online",
+          "B. working in a team",
+          "C. traveling regularly between home and work",
+          "D. managing a business"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "The word \"collaborate\" means:",
+        "options": [
+          "A. compete with each other",
+          "B. work together on a project",
+          "C. communicate by email only",
+          "D. follow instructions carefully"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "The word \"hybrid\" means:",
+        "options": [
+          "A. combining two different things",
+          "B. very modern and advanced",
+          "C. completely separate",
+          "D. temporary and short-term"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "The word \"boundaries\" means:",
+        "options": [
+          "A. office walls and furniture",
+          "B. limits or lines that separate things",
+          "C. working hours only",
+          "D. company rules"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "The word \"preserve\" means:",
+        "options": [
+          "A. to change something new",
+          "B. to keep something in good condition",
+          "C. to share with others",
+          "D. to improve quality"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "The word \"crucial\" means:",
+        "options": [
+          "A. not very important",
+          "B. expensive and difficult",
+          "C. extremely important",
+          "D. complicated and confusing"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "The word \"adapt\" means:",
+        "options": [
+          "A. to reject new ideas",
+          "B. to accept or adjust to new conditions",
+          "C. to delay making decisions",
+          "D. to copy exactly"
+        ],
+        "answer": 1
+      }
+    ],
+    "audio_url": "audios/2026-05-15.mp3"
   }
 }
