@@ -1,0 +1,432 @@
+{
+  "2026-05-10": {
+    "title": "The Benefits of Urban Farming",
+    "passage": "Urban farming, also known as urban agriculture, refers to the practice of growing food within cities and towns. In recent years, this trend has gained significant popularity around the world, as more and more people seek sustainable ways to produce food in densely populated areas.\n\nOne of the main advantages of urban farming is that it reduces the distance food needs to travel from farm to table. Traditional agriculture often requires food to be transported hundreds or even thousands of kilometers before reaching consumers. This long journey not only increases carbon emissions but also reduces the freshness and nutritional value of the food. Urban farms, on the other hand, can supply fresh produce directly to local communities within hours of harvesting.\n\nAnother benefit is the positive impact on mental health. Studies have shown that gardening and working with plants can reduce stress levels and improve overall well-being. Many urban farms operate as community spaces where residents can gather, share knowledge, and build social connections. This sense of community is particularly valuable in large cities, where people often feel isolated and disconnected from nature.\n\nUrban farming also plays a role in education. Schools and community organizations have begun incorporating urban gardens into their programs, teaching students about biology, ecology, and the importance of sustainable food systems. Children who participate in these programs often develop healthier eating habits and a greater appreciation for where their food comes from.\n\nDespite these benefits, urban farming faces several challenges. Limited space, high land costs, and soil contamination are common obstacles in urban environments. Additionally, not all crops are suitable for urban cultivation, and yields are generally much smaller than those of conventional farms.\n\nNevertheless, with advances in technology such as vertical farming and hydroponics, urban agriculture is becoming increasingly efficient and viable. Many experts believe that urban farming will play an important role in creating more sustainable and resilient food systems for future generations.",
+    "audio_url": "audios/2026-05-10.mp3",
+    "comprehension_quiz": [
+      {
+        "q": "What is one of the main advantages of urban farming mentioned in the passage?",
+        "options": [
+          "A. It produces larger yields than traditional farming.",
+          "B. It reduces the distance food needs to travel to consumers.",
+          "C. It requires less water than conventional agriculture."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "According to the passage, how does urban farming affect mental health?",
+        "options": [
+          "A. It has no significant impact on mental health.",
+          "B. It can increase stress due to hard physical work.",
+          "C. It can reduce stress and improve well-being."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is mentioned as a challenge for urban farming?",
+        "options": [
+          "A. Lack of interest from local communities.",
+          "B. Soil contamination and limited space.",
+          "C. Absence of modern farming technology."
+        ],
+        "answer": 1
+      }
+    ],
+    "vocab_quiz": [
+      {
+        "q": "The word \"sustainable\" in the passage is closest in meaning to:",
+        "options": ["A. expensive", "B. able to continue long-term", "C. difficult", "D. temporary"],
+        "answer": 1
+      },
+      {
+        "q": "\"Carbon emissions\" refers to:",
+        "options": ["A. food waste", "B. water pollution", "C. greenhouse gases released into the air", "D. soil contamination"],
+        "answer": 2
+      },
+      {
+        "q": "The word \"isolated\" means:",
+        "options": ["A. connected to others", "B. separated and alone", "C. busy and active", "D. healthy"],
+        "answer": 1
+      },
+      {
+        "q": "\"Incorporating\" in the passage means:",
+        "options": ["A. removing", "B. including as part of something", "C. replacing", "D. ignoring"],
+        "answer": 1
+      },
+      {
+        "q": "\"Contamination\" means:",
+        "options": ["A. making something pure", "B. improving quality", "C. making something impure or harmful", "D. changing color"],
+        "answer": 2
+      },
+      {
+        "q": "\"Viable\" means:",
+        "options": ["A. impossible", "B. dangerous", "C. capable of working successfully", "D. expensive"],
+        "answer": 2
+      },
+      {
+        "q": "\"Resilient\" food systems are those that:",
+        "options": ["A. are very expensive", "B. can recover quickly from difficulties", "C. produce large amounts of food", "D. use chemicals"],
+        "answer": 1
+      },
+      {
+        "q": "\"Yields\" in agriculture refers to:",
+        "options": ["A. the amount of crops produced", "B. the cost of farming", "C. the types of plants grown", "D. the farming equipment used"],
+        "answer": 0
+      },
+      {
+        "q": "\"Densely populated\" means an area:",
+        "options": ["A. with very few people", "B. with many people living close together", "C. with good public transport", "D. with many buildings"],
+        "answer": 1
+      },
+      {
+        "q": "\"Hydroponics\" is a method of:",
+        "options": ["A. treating polluted water", "B. generating electricity from water", "C. growing plants without soil using water", "D. purifying drinking water"],
+        "answer": 2
+      }
+    ]
+  },
+  "2026-05-11": {
+    "title": "The Rise of Artificial Intelligence in Healthcare",
+    "passage": "Artificial intelligence, commonly referred to as AI, is rapidly transforming the healthcare industry. From diagnosing diseases to assisting in complex surgeries, AI technologies are helping medical professionals deliver better care to patients around the world.\n\nOne of the most promising applications of AI in healthcare is in the field of medical imaging. Traditional methods of analyzing X-rays, MRI scans, and CT scans require highly trained specialists who must manually examine each image. This process can be time-consuming and subject to human error. AI systems, however, can analyze thousands of images in a matter of seconds with remarkable accuracy. In some cases, AI has demonstrated the ability to detect certain cancers and other conditions at earlier stages than human doctors.\n\nAI is also being used to predict patient outcomes and identify individuals who may be at risk for certain diseases. By analyzing large amounts of medical data, including patient histories, lab results, and genetic information, AI algorithms can identify patterns that might not be apparent to human physicians. This predictive capability allows doctors to intervene earlier and potentially prevent serious health complications.\n\nIn the operating room, robotic systems guided by AI are assisting surgeons in performing highly precise procedures. These systems can make incredibly small and accurate movements, reducing the risk of complications and speeding up patient recovery times.\n\nDespite these remarkable advances, there are important ethical concerns surrounding the use of AI in healthcare. Questions about patient privacy, the accuracy of AI diagnoses, and the potential for bias in AI algorithms are subjects of ongoing debate among medical professionals and policymakers.\n\nFurthermore, many healthcare workers worry that AI will replace human jobs in the medical field. However, most experts argue that AI will serve as a tool to assist rather than replace doctors and nurses, allowing them to focus on the more human aspects of patient care.\n\nThe future of AI in healthcare looks promising, but careful regulation and ethical oversight will be essential to ensure that these technologies are used responsibly and equitably.",
+    "audio_url": "audios/2026-05-11.mp3",
+    "comprehension_quiz": [
+      {
+        "q": "What is one way AI is being used in medical imaging?",
+        "options": [
+          "A. It replaces doctors entirely in diagnosis.",
+          "B. It can analyze images quickly and detect conditions accurately.",
+          "C. It creates X-rays and MRI scans automatically."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "How does AI help in predicting patient outcomes?",
+        "options": [
+          "A. By asking patients questions about their lifestyle.",
+          "B. By analyzing large amounts of medical data to find patterns.",
+          "C. By comparing patients with similar age groups."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What do most experts say about AI replacing doctors?",
+        "options": [
+          "A. AI will completely replace doctors within ten years.",
+          "B. AI will serve as a tool to assist rather than replace medical professionals.",
+          "C. AI is not advanced enough to work in hospitals yet."
+        ],
+        "answer": 1
+      }
+    ],
+    "vocab_quiz": [
+      {
+        "q": "\"Diagnosing\" a disease means:",
+        "options": ["A. curing a disease", "B. spreading a disease", "C. identifying what disease someone has", "D. preventing a disease"],
+        "answer": 2
+      },
+      {
+        "q": "\"Remarkable\" means:",
+        "options": ["A. ordinary", "B. worthy of attention; extraordinary", "C. frightening", "D. confusing"],
+        "answer": 1
+      },
+      {
+        "q": "\"Intervene\" means:",
+        "options": ["A. to ignore a situation", "B. to make a situation worse", "C. to take action to improve a situation", "D. to study a problem"],
+        "answer": 2
+      },
+      {
+        "q": "\"Precise\" means:",
+        "options": ["A. fast", "B. exactly accurate", "C. powerful", "D. simple"],
+        "answer": 1
+      },
+      {
+        "q": "\"Ethical\" concerns are related to:",
+        "options": ["A. money and costs", "B. technical problems", "C. questions of right and wrong", "D. scientific accuracy"],
+        "answer": 2
+      },
+      {
+        "q": "\"Bias\" in AI refers to:",
+        "options": ["A. unfair preferences that affect results", "B. technical errors in software", "C. the speed of processing", "D. energy consumption"],
+        "answer": 0
+      },
+      {
+        "q": "\"Equitably\" means:",
+        "options": ["A. quickly", "B. secretly", "C. in a fair and equal way", "D. experimentally"],
+        "answer": 2
+      },
+      {
+        "q": "\"Policymakers\" are people who:",
+        "options": ["A. build machines", "B. create and implement government rules and regulations", "C. conduct scientific experiments", "D. manage hospitals"],
+        "answer": 1
+      },
+      {
+        "q": "\"Complications\" in medicine refer to:",
+        "options": ["A. medical tools and equipment", "B. additional problems that arise during treatment", "C. types of medication", "D. surgical procedures"],
+        "answer": 1
+      },
+      {
+        "q": "\"Algorithms\" are:",
+        "options": ["A. medical instruments", "B. types of diseases", "C. sets of rules for solving problems step by step", "D. computer screens"],
+        "answer": 2
+      }
+    ]
+  },
+  "2026-05-12": {
+    "title": "Climate Change and Coral Reefs",
+    "passage": "Coral reefs are among the most diverse and valuable ecosystems on Earth. Often called the \"rainforests of the sea,\" they support approximately 25 percent of all marine species, despite covering less than one percent of the ocean floor. However, coral reefs around the world are under serious threat from climate change.\n\nThe primary threat to coral reefs is rising ocean temperatures. Corals live in a delicate symbiotic relationship with tiny algae called zooxanthellae, which provide corals with nutrients through photosynthesis. When ocean temperatures rise even slightly above normal levels, corals become stressed and expel the algae, causing them to turn white in a process known as coral bleaching. Without the algae, corals gradually starve and may eventually die.\n\nMass bleaching events have become more frequent and severe in recent decades. The Great Barrier Reef in Australia, the largest coral reef system in the world, has experienced several major bleaching events since 1998, damaging large sections of the reef. Scientists warn that if global temperatures continue to rise at the current rate, many coral reefs may be unable to survive.\n\nOcean acidification is another serious threat. As the amount of carbon dioxide in the atmosphere increases, more of it is absorbed by the oceans, making the water more acidic. This acidic environment weakens coral skeletons and makes it harder for new coral to grow, further threatening the survival of reef ecosystems.\n\nThe loss of coral reefs would have devastating consequences for marine biodiversity and for millions of people who depend on reefs for food and income. Fishing communities, coastal protection, and tourism industries all rely heavily on healthy reef ecosystems.\n\nConservation efforts are underway around the world to protect and restore coral reefs. These include reducing local pollution, establishing marine protected areas, and developing new technologies such as coral farming to help reefs recover. However, experts agree that the most critical action needed is reducing global greenhouse gas emissions to slow the pace of climate change.",
+    "audio_url": "audios/2026-05-12.mp3",
+    "comprehension_quiz": [
+      {
+        "q": "What is coral bleaching?",
+        "options": [
+          "A. A process where corals turn colorful due to algae growth.",
+          "B. A process where corals expel algae and turn white due to stress.",
+          "C. A method used by scientists to clean coral reefs."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is ocean acidification?",
+        "options": [
+          "A. The warming of ocean water due to sunlight.",
+          "B. The increase in salt levels in the ocean.",
+          "C. The process by which oceans become more acidic due to absorbed CO2."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What do experts say is the most critical action to protect coral reefs?",
+        "options": [
+          "A. Building artificial reefs in the ocean.",
+          "B. Reducing global greenhouse gas emissions.",
+          "C. Removing all fishing activities near coral reefs."
+        ],
+        "answer": 1
+      }
+    ],
+    "vocab_quiz": [
+      {
+        "q": "\"Symbiotic\" relationship means:",
+        "options": ["A. a harmful relationship between two species", "B. a relationship where both parties benefit", "C. a competitive relationship", "D. a temporary connection"],
+        "answer": 1
+      },
+      {
+        "q": "\"Photosynthesis\" is the process by which:",
+        "options": ["A. animals breathe oxygen", "B. plants produce food using sunlight", "C. water evaporates from the ocean", "D. coral reefs grow"],
+        "answer": 1
+      },
+      {
+        "q": "\"Expel\" means:",
+        "options": ["A. to attract", "B. to absorb", "C. to force out", "D. to produce"],
+        "answer": 2
+      },
+      {
+        "q": "\"Acidification\" refers to the process of:",
+        "options": ["A. becoming warmer", "B. becoming more acidic", "C. becoming saltier", "D. becoming cleaner"],
+        "answer": 1
+      },
+      {
+        "q": "\"Biodiversity\" means:",
+        "options": ["A. a single species of animal", "B. the variety of life in a particular area", "C. the study of plants", "D. extinction of species"],
+        "answer": 1
+      },
+      {
+        "q": "\"Devastating\" consequences are:",
+        "options": ["A. minor and manageable", "B. unexpected", "C. extremely harmful and destructive", "D. positive and beneficial"],
+        "answer": 2
+      },
+      {
+        "q": "\"Conservation\" efforts aim to:",
+        "options": ["A. destroy natural habitats", "B. protect and preserve natural resources", "C. exploit natural resources for profit", "D. study scientific theories"],
+        "answer": 1
+      },
+      {
+        "q": "\"Greenhouse gas\" refers to:",
+        "options": ["A. gases used in greenhouses to grow plants", "B. gases that trap heat in the atmosphere", "C. gases produced by factories only", "D. oxygen and nitrogen in the air"],
+        "answer": 1
+      },
+      {
+        "q": "\"Ecosystem\" means:",
+        "options": ["A. a type of weather pattern", "B. a community of living things and their environment", "C. a scientific laboratory", "D. a method of farming"],
+        "answer": 1
+      },
+      {
+        "q": "\"Marine\" relates to:",
+        "options": ["A. land and soil", "B. forests and jungles", "C. the sea or ocean", "D. the sky and atmosphere"],
+        "answer": 2
+      }
+    ]
+  },
+  "2026-05-13": {
+    "title": "The Impact of Social Media on Youth",
+    "passage": "Over the past two decades, social media platforms have become an integral part of daily life for young people around the world. Applications such as Instagram, TikTok, and X (formerly Twitter) allow users to share photos, videos, and thoughts with a global audience instantly. While social media offers many benefits, researchers and educators are increasingly concerned about its effects on the mental health and development of teenagers.\n\nOne significant concern is the impact of social media on self-esteem. Many young users compare themselves to the idealized images posted by others online, which can lead to feelings of inadequacy and low self-worth. Studies have shown a correlation between heavy social media use and higher rates of anxiety and depression among teenagers, particularly among girls.\n\nSocial media can also contribute to sleep disruption. Many teenagers use their phones late at night, checking notifications and scrolling through feeds. The blue light emitted by screens interferes with the production of melatonin, a hormone that regulates sleep. Poor sleep quality can negatively affect academic performance, mood, and physical health.\n\nCyberbullying is another serious problem associated with social media. Unlike traditional bullying, cyberbullying can occur at any time and reach victims even when they are at home. The anonymous nature of the internet can make people more willing to write hurtful messages they would never say in person.\n\nDespite these challenges, social media also has positive aspects. It can be a powerful tool for connecting with friends and family, finding communities of people with shared interests, and accessing educational content. Many young people use social media to raise awareness about important social issues and organize community activities.\n\nExperts recommend a balanced approach to social media use. Parents and educators are encouraged to have open conversations with young people about responsible online behavior, set reasonable screen time limits, and promote activities that support well-being offline as well as online.",
+    "audio_url": "audios/2026-05-13.mp3",
+    "comprehension_quiz": [
+      {
+        "q": "According to the passage, what is one reason social media affects self-esteem?",
+        "options": [
+          "A. Young people spend too much money on social media apps.",
+          "B. Young people compare themselves to idealized images posted online.",
+          "C. Social media makes communication too easy."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "How does social media contribute to sleep problems?",
+        "options": [
+          "A. Social media apps make loud notification sounds at night.",
+          "B. Screen blue light interferes with melatonin production.",
+          "C. Social media causes teenagers to exercise less."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What positive aspect of social media is mentioned in the passage?",
+        "options": [
+          "A. It helps teenagers avoid studying.",
+          "B. It allows people to earn money easily.",
+          "C. It can be used to raise awareness about social issues."
+        ],
+        "answer": 2
+      }
+    ],
+    "vocab_quiz": [
+      {
+        "q": "\"Integral\" part means:",
+        "options": ["A. optional", "B. essential and fundamental", "C. expensive", "D. new and modern"],
+        "answer": 1
+      },
+      {
+        "q": "\"Inadequacy\" means:",
+        "options": ["A. a feeling of being more than enough", "B. a feeling of not being good enough", "C. a feeling of happiness", "D. a feeling of excitement"],
+        "answer": 1
+      },
+      {
+        "q": "A \"correlation\" between two things means:",
+        "options": ["A. they have nothing in common", "B. one causes the other directly", "C. a relationship where they tend to change together", "D. they are opposites"],
+        "answer": 2
+      },
+      {
+        "q": "\"Disruption\" means:",
+        "options": ["A. improvement", "B. interference that prevents normal activity", "C. a type of medical condition", "D. a form of entertainment"],
+        "answer": 1
+      },
+      {
+        "q": "\"Melatonin\" is described as:",
+        "options": ["A. a type of blue light", "B. a social media app", "C. a hormone that regulates sleep", "D. a form of caffeine"],
+        "answer": 2
+      },
+      {
+        "q": "\"Anonymous\" means:",
+        "options": ["A. with a clear identity", "B. well-known to everyone", "C. without revealing one's identity", "D. signed with a name"],
+        "answer": 2
+      },
+      {
+        "q": "\"Cyberbullying\" is defined as bullying that:",
+        "options": ["A. occurs only at school", "B. involves physical violence", "C. happens online and can occur anytime", "D. requires face-to-face contact"],
+        "answer": 2
+      },
+      {
+        "q": "\"Promote\" activities means to:",
+        "options": ["A. ban or restrict activities", "B. support and encourage activities", "C. study activities scientifically", "D. replace activities with others"],
+        "answer": 1
+      },
+      {
+        "q": "\"Responsible\" online behavior refers to behavior that is:",
+        "options": ["A. exciting and adventurous", "B. anonymous and hidden", "C. fast and efficient", "D. careful and considerate of others"],
+        "answer": 3
+      },
+      {
+        "q": "\"Emitted\" by screens means:",
+        "options": ["A. absorbed by screens", "B. blocked by screens", "C. given off or sent out by screens", "D. reflected from screens"],
+        "answer": 2
+      }
+    ]
+  },
+  "2026-05-14": {
+    "title": "Japan's Aging Society and Its Challenges",
+    "passage": "Japan is facing one of the most significant demographic challenges in the modern world: a rapidly aging population combined with a declining birth rate. According to recent statistics, approximately 30 percent of Japan's population is aged 65 or older, making it one of the oldest societies in the world. This trend is expected to continue, with projections suggesting that by 2050, nearly 40 percent of the population will be elderly.\n\nThe causes of this demographic shift are complex. Improved healthcare and living standards have significantly extended life expectancy in Japan. At the same time, many young Japanese people are choosing to marry later or not at all, and those who do marry are having fewer children. Economic pressures, long working hours, and the high cost of raising children are frequently cited as reasons for the low birth rate.\n\nThe aging population poses significant challenges for Japan's economy and social welfare system. As the number of retirees grows while the working-age population shrinks, the country faces difficulties in maintaining its pension and healthcare systems. The government is under pressure to find ways to support an increasing number of elderly citizens with a decreasing number of working taxpayers.\n\nLabor shortages are another major consequence of this demographic trend. Many industries, including manufacturing, construction, and healthcare, are struggling to find enough workers. In response, Japan has begun to cautiously open its doors to foreign workers, a significant shift for a country historically known for its strict immigration policies.\n\nTechnology is also being looked to as part of the solution. Japan is investing heavily in robotics and automation to compensate for the shrinking workforce. In the care sector, robots are being developed to assist elderly individuals with daily tasks and provide companionship.\n\nAddressing Japan's demographic crisis will require a comprehensive approach, including policies to support working parents, encourage immigration, and harness the potential of new technologies. The way Japan manages this challenge will likely serve as a model for other developed nations facing similar trends in the coming decades.",
+    "audio_url": "audios/2026-05-14.mp3",
+    "comprehension_quiz": [
+      {
+        "q": "What percentage of Japan's population is currently aged 65 or older?",
+        "options": [
+          "A. Approximately 20 percent.",
+          "B. Approximately 30 percent.",
+          "C. Approximately 40 percent."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why are many young Japanese people having fewer children?",
+        "options": [
+          "A. Due to government restrictions on family size.",
+          "B. Because they prefer careers over family life.",
+          "C. Due to economic pressures and the high cost of raising children."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "How is technology being used to address Japan's aging population?",
+        "options": [
+          "A. By replacing elderly people in the workforce.",
+          "B. By developing robots to assist elderly individuals and compensate for labor shortages.",
+          "C. By creating apps to help young people find jobs."
+        ],
+        "answer": 1
+      }
+    ],
+    "vocab_quiz": [
+      {
+        "q": "\"Demographic\" refers to:",
+        "options": ["A. economic systems", "B. political systems", "C. statistics relating to a population", "D. environmental factors"],
+        "answer": 2
+      },
+      {
+        "q": "\"Life expectancy\" means:",
+        "options": ["A. the quality of life a person has", "B. the average number of years a person is expected to live", "C. the standard of healthcare in a country", "D. the retirement age"],
+        "answer": 1
+      },
+      {
+        "q": "\"Declining\" birth rate means a birth rate that is:",
+        "options": ["A. increasing", "B. staying the same", "C. decreasing", "D. unpredictable"],
+        "answer": 2
+      },
+      {
+        "q": "\"Pension\" is:",
+        "options": ["A. a tax paid by workers", "B. a government healthcare program", "C. regular payment made to retired people", "D. a type of savings account"],
+        "answer": 2
+      },
+      {
+        "q": "\"Shrinks\" means:",
+        "options": ["A. grows larger", "B. becomes smaller", "C. stays the same", "D. disappears completely"],
+        "answer": 1
+      },
+      {
+        "q": "\"Labor shortage\" means:",
+        "options": ["A. too many workers available", "B. not enough workers available", "C. workers demanding higher wages", "D. workers refusing to work"],
+        "answer": 1
+      },
+      {
+        "q": "\"Automation\" refers to:",
+        "options": ["A. manual labor by workers", "B. the use of technology to perform tasks automatically", "C. government policies", "D. foreign investment"],
+        "answer": 1
+      },
+      {
+        "q": "\"Comprehensive\" approach means:",
+        "options": ["A. a quick and simple approach", "B. a partial approach", "C. a thorough approach covering all aspects", "D. an experimental approach"],
+        "answer": 2
+      },
+      {
+        "q": "\"Harness\" the potential means:",
+        "options": ["A. to ignore potential", "B. to control and make use of potential", "C. to limit potential", "D. to study potential"],
+        "answer": 1
+      },
+      {
+        "q": "\"Cautiously\" opening its doors means doing so:",
+        "options": ["A. quickly and enthusiastically", "B. without any planning", "C. carefully and with hesitation", "D. reluctantly and with refusal"],
+        "answer": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+# テキストファイルの改行コードを LF に統一（GitHub Pages / Web 標準）
+* text=auto eol=lf
+
+# バイナリファイルは変換しない
+*.mp3 binary
+*.png binary
+*.jpg binary
+*.ico binary
