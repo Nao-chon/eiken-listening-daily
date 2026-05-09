@@ -1,0 +1,8 @@
+# Kokoro TTS モデルファイル（大容量のため除外）
+*.onnx
+*.bin
+*.pth
+
+# Python
+__pycache__/
+*.pyc
